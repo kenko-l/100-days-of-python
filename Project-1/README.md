@@ -1,1 +1,1 @@
-A simple game where the user guesses a number from 1 to 100 and gets feedaback based in their answer. Includes two modes of difficulty (Easy and Hard) where each mode has its respective number of guesses to get the correct answer.
+A game where the user attempts to guess a number from 1 to 100 and gets feedback based on their answer. Includes two modes of difficulty (Easy and Hard) where each mode has its respective number of chances to get the correct answer.
