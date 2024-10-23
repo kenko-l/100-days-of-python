@@ -1,1 +1,3 @@
+The same project as project-4 but the code is object oriented.
 
+A simple program simulating a coffee machine that offers users a choice of drinks: espresso, latte, and cappuccino. The coffee machine keeps track of its resources and transactions, and it can be managed by users via a set of commands.
